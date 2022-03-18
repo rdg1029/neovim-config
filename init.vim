@@ -8,6 +8,7 @@ Plug 'vim-airline/vim-airline-themes'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'ctrlpvim/ctrlp.vim'
 Plug 'jacoborus/tender.vim'
+Plug 'mhinz/vim-signify'
 call plug#end()
 
 "Plugin Settings
